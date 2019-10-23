@@ -1,0 +1,1 @@
+a:1:{s:6:"imgurl";s:266:"a:2:{s:32:"889f70a299e4bcc1557956304b04321d";a:1:{s:1:"v";s:73:"http://localhost/wordpress/wp-content/uploads/woocommerce-placeholder.png";}s:32:"1920c4f757b09932fff183afa9bd20bb";a:1:{s:1:"v";s:63:"http://localhost/wordpress/wp-content/uploads/2019/10/bag-5.png";}}";}
